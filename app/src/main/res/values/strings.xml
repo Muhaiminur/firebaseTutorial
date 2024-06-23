@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseAbir</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next Page</string>
+    <string name="previous">Previous</string>
+    <string name="save_to_real_database">Save to Real Database</string>
+    <string name="save_to_firestore_database">Save to FireStore Database</string>
+    <string name="realDatabase">RealTime Database</string>
+    <string name="fireStore">FireStore</string>
+    <string name="user_age">User Age</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_user_tittle">Enter User Tittle</string>
+</resources>
